@@ -1,7 +1,5 @@
 # 📊 HR Analytics Dashboard
 
-![HR Analytics Dashboard](./2751f2d2-a02e-4d2f-bbcb-4476dbaf1bae.png)
-
 ## 🧩 Project Overview
 
 This interactive **HR Analytics Dashboard** was built in **Microsoft Excel** to help HR teams analyze **employee attrition** patterns and make data-driven decisions. It visualizes key metrics such as attrition rate, job roles with high turnover, and age or department-level breakdowns using slicers and charts.
@@ -52,7 +50,6 @@ The dataset contains 1,470 employee records with detailed information across mul
 - **By Age Group:** 25–34 years sees highest turnover
 - **By Department:** Sales and R&D face the most attrition
 
-![Attrition by Department, Age, Marital Status](./f304668b-3af2-4aeb-923d-888b245a45fe.png)
 
 ---
 
